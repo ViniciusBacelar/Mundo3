@@ -21,6 +21,7 @@ def lerNum(num = 0):
     else:
         return "ERRO! Tente novamente!"
     
+
 def main():
     """
     [Função principal]
