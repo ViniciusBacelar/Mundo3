@@ -6,9 +6,10 @@
     O programa deve analisar todos e dizer
     qual o maior valor.
 """
-def lin():
-    print("=="*30)
+
 def maior():
+    def lin():
+        print("=="*30)
     lista = list()
     while True:
         x = int(input("Digite um numero: "))
